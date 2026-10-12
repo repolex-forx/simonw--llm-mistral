@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "llm-mistral",
+  "versions": [
+    {
+      "commit": "1b8807821fddcca2b6b4ec4326abcf45553977f9",
+      "parsed_at": "2026-10-12T16:32:01.815599+00:00",
+      "tag": "0.16",
+      "filetree": "filetree/1b8807821fddcca2b6b4ec4326abcf45553977f9.nq.gz",
+      "blobs": [
+        "blob/9f2608f5ce3df43cd2f2e5e8c1f1ea5c94b4f696.nq.gz",
+        "blob/8a8fbe3061df604bc1122d3e75ad7ea67ede3449.nq.gz",
+        "blob/9c774ec9413e758a49655c7de34a6ccf0c476aa3.nq.gz",
+        "blob/08e5a89944f0c4b69001d695482561324c48fcfd.nq.gz",
+        "blob/68e50d9c0bb3cae2428fe3fa06ba534ca6333ce0.nq.gz",
+        "blob/58b421648c216266404c8ae458e28e9e1ee9a6dd.nq.gz",
+        "blob/6da19adfc1a795b1688b12156b3045de037c7668.nq.gz",
+        "blob/8d22aaee205adeba1855d89f910db02ee45a4474.nq.gz",
+        "blob/7cb8f79506ce197da40d29609928790920b6613b.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/d0d5ce3ee8fa6494d61b4f902ee7d8de943e1b36.nq.gz",
+        "blob/b7f5180cb593474d77e65d1488c2589533c01028.nq.gz",
+        "blob/bd1c5a4321136fac14df4714fc2ee602531dc289.nq.gz",
+        "blob/0b270db47494e25979f2b06115275960a546132a.nq.gz",
+        "blob/bb6321427f71bc1a5385aaff4123fe17042cb8b0.nq.gz",
+        "blob/77f89963599da4e4f9a81ac0f33d4d0b98f8eb8b.nq.gz",
+        "blob/d7b3abad0fd3c602f1a846d405ebb771ac44d379.nq.gz",
+        "blob/cfefd88c6a437dada7f3b32b451aca402cb3ebf1.nq.gz",
+        "blob/b419f80b3e82e37b9eb11aabab43383783df49f9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
